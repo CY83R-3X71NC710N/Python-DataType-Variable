@@ -1,0 +1,2 @@
+keys = "fun"
+print(keys)
